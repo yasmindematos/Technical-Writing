@@ -1,6 +1,6 @@
 # Technical Writing
 
-## Projetos de Estudo em Technical Writing
+## Projeto de Estudo em Technical Writing
 
 Bem-vindo(a) ao repositório dedicado aos meus estudos em Technical Writing. Este espaço é reservado para compartilhar projetos nos quais venho aprimorando minhas habilidades de redação técnica.
 
